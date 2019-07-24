@@ -9,7 +9,7 @@ html, body {
            max-height: 100%;
            margin: 0;
            padding: 0;
-           background-image: url('https://i.pinimg.com/originals/f0/0c/3c/f00c3c0be78809289b348adc0c42416d.jpg');
+           background-image: url('https://lh3.googleusercontent.com/proxy/NDImlg_V4Byq4Sjj6ct_ceU1cevDoTkSUF-hwLWJlEaHqkgZk840fUNzMVekkao3WqGIZBCxy2IjgtUpEhRbx4DPXMqL1M5j40wFl8GYysavIXmn9kHJZ0DjMoA=s0-d');
            background-size:100% 100%;
            background-repeat: no-repeat fixed center;
            align-items: center;
@@ -18,7 +18,7 @@ img {
   width: 60%;
   height: 60%;
   max-height: 60%;
-  margin: 10;
+  margin: 70px;
   padding: 2;
   align-content: center;
 }
